@@ -1,3 +1,18 @@
+# Working Save
+* Works with Index via SteamVR
+* Pen and rubber does not work
+* Graph visualisation and manipulation and movement are all working
+* Can use Quest 2 Via SteamVR BUT controls do NOT work
+* Moving VRTK to use "Oculus" allows headset to work but spawns on the floor
+	* Controllers are not shown and controllers do not work 
+
+
+
+
+
+
+
+
 # FIESTA
 *Free-range Immersive Environment to Support Team-based Analysis*
 
