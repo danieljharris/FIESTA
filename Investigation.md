@@ -17,12 +17,27 @@
 - Single class, 2033 lines long!
 - TODO: Find out if I should use Chart or just go direct to IATK visualisation script?
 
-
-
-# IATK
 ## Chart Manager
+- Connects IATK data sources and visualisations to Proton multiplayer
 - Obj containing "Chart Manager" (FIESTA) and "CSV Data Source" (IATK)
 - Had CreatePanel
 
 ## CreatePanel
 - 
+
+
+
+# IATK
+Used two main types of prefabs:
+
+**CSV Data Source**
+
+    Used to set the data to be used by one or more visualisation
+
+
+**Visualisation**
+
+    A single visualisation, can change settings to create different visualisation types
+
+
+  
